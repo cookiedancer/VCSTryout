@@ -34,7 +34,7 @@
               Android 5.0 APIs</a></li>
         <li><a href="<?cs var:toroot ?>about/versions/android-5.0-changes.html">
 
-        Android 5.0 Changes</a></li>
+        Android 5.0 Changes - added text to commit it</a></li>
       </ul>
   </li>
   <li class="nav-section">
