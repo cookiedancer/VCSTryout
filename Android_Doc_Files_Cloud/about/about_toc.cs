@@ -34,7 +34,14 @@
               Android 5.0 APIs</a></li>
         <li><a href="<?cs var:toroot ?>about/versions/android-5.0-changes.html">
 
+<<<<<<< HEAD
         Android 5.0 Changes - added text to commit it  hello world< - second time/a></li>
+=======
+        Android 5.0 Changes - added text to commit it< - second time/a></li>
+        <li><a href="<?cs var:toroot ?>about/versions/android-5.0-changes.html">
+
+        Android 5.0 Changes - added more text < - third time/a></li>
+>>>>>>> master
       </ul>
   </li>
   <li class="nav-section">
